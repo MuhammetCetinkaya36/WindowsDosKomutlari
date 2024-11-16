@@ -41,7 +41,7 @@ Komutlar: echo, set, fc, help.
  ## Dir Komutu
  Dir komutu, belirtilen dizindeki dosya ve klasörlerin listesini gösterir.
 
-![dir_komutu](Screenshots\dirkomutu.png 'dir komutu ekran resmi')
+![dir_komutu](Screenshots/dirkomutu.png 'dir komutu ekran resmi')
 
 ## Cd Komutu
 Cd komutu, çalışma dizinini değiştirmeye yarar.
